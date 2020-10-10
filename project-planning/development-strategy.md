@@ -11,3 +11,13 @@ In this project I try to use my HTML, CSS and JavaScript knowledge to build a ga
 - Create README file
 - Create development strategy file
 
+## 1. Initialize application 
+
+**As a user I would to see a web page when I visit the website**
+
+> This part is created in a branch called `initial-app` and merged to the master after it was completed
+
+- Create an HTML file called `index.html`
+- Create a CSS file called `style.css`
+- 
+
