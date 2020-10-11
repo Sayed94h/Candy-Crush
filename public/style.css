@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+
+	background-color: #dde;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	animation-duration: 1.5s;
+}
+
+section.scorebox {
+	position: absolute;
+	top: 5%;
+	left: 3%;
+	width: 10%;
+	background-color: aqua;
+	opacity: 0.6;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 1.5vw;
+}
+
+section#candy-crushbox {
+	height: 480px;
+	width: 480px;
+	margin-top: 5%;
+	margin-left: 30%;
+	background-color: #88e;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+section#candy-crushbox div {
+	height: 60px;
+	width: 60px;
+}
