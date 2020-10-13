@@ -6,12 +6,13 @@ let scoresBox = document.getElementById("score");
 
 const candyArr = [];
 const candyColors = [
-	"url(../public/candies/red.png)",
-	"url(../public/candies/yellow.png)",
-	"url(../public/candies/orange.png)",
-	"url(../public/candies/purple.png)",
-	"url(../public/candies/green.png)",
-	"url(../public/candies/blue.png)",
+	"url(./public/candies/red.png)",
+	"url(./public/candies/yellow.png)",
+	"url(./public/candies/orange.png)",
+	"url(./public/candies/purple.png)",
+
+	"url(./public/candies/green.png)",
+	"url(./public/candies/blue.png)",
 ];
 
 // Create board
