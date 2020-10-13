@@ -2,7 +2,7 @@ body {
 	margin: 0;
 
 	background-color: #dde;
-
+	background-image: url("./images/1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	animation-duration: 1.5s;
@@ -13,24 +13,27 @@ section.scorebox {
 	top: 5%;
 	left: 3%;
 	width: 10%;
-	background-color: aqua;
-	opacity: 0.6;
+	background-color: rgba(247, 8, 227, 0.3);
+	color: #fff;
 	text-align: center;
 	border-radius: 10px;
 	font-size: 1.5vw;
 }
 
 section#candy-crushbox {
-	height: 480px;
-	width: 480px;
-	margin-top: 5%;
-	margin-left: 30%;
-	background-color: #88e;
+	height: 560px;
+	width: 560px;
+	margin-top: 3%;
+	margin-left: 25%;
+	background: rgba(255, 4, 213, 0.3);
+	background-blend-mode: lighten;
+	border-radius: 15px;
 	display: flex;
 	flex-wrap: wrap;
 }
 
 section#candy-crushbox div {
-	height: 60px;
-	width: 60px;
+	height: 70px;
+	width: 70px;
+	border-radius: 15px;
 }

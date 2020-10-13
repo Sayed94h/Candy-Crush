@@ -1,6 +1,6 @@
 let imgArr = [
-	"../public/images/1.jpg",
 	"../public/images/2.jpg",
+	"../public/images/1.jpg",
 	"../public/images/3.jpg",
 	"../public/images/4.jpg",
 ];
